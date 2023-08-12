@@ -1,3 +1,3 @@
-# loongstudio-faster
+# faster
 
-loongstudio-faster
+faster
