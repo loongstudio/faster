@@ -1,0 +1,2 @@
+# loongstudio-faster
+loongstudio-faster
